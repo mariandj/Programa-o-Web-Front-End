@@ -1,2 +1,2 @@
-# Programa-o-Web-Front-End
+# Projeto de Front
 Desenvolvimento da matéria de programação web front-end
